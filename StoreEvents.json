@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 800,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 2600,
+		"price": 4003,
 		"karmatype": "Bad"
 	},
 	{
@@ -61,11 +61,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "flashstorm",
-		"price": 400,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "coldsnap",
 		"price": 800,
 		"karmatype": "Bad"
@@ -106,13 +101,13 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "refugeechased",
-		"price": 650,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "animaltame",
 		"price": 150,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "wandererjoins",
+		"price": 50,
 		"karmatype": "Good"
 	},
 	{
@@ -131,13 +126,8 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "orbitaltraderarrival",
+		"abr": "orbitaltrader",
 		"price": 350,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "inspiration",
-		"price": 150,
 		"karmatype": "Good"
 	},
 	{
@@ -208,11 +198,6 @@
 	{
 		"abr": "skillincrease",
 		"price": 200,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "party",
-		"price": 400,
 		"karmatype": "Good"
 	},
 	{
@@ -292,22 +277,22 @@
 	},
 	{
 		"abr": "pawn",
-		"price": 1500,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "gambleskill",
+		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "trait",
-		"price": 3500,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 5500,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -326,10 +311,85 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "berescued",
-		"price": 900,
+		"abr": "randominspire",
+		"price": 450,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "torytalkervote",
+		"price": 750,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "hodlbotvote",
+		"price": 600,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "reviveall",
+		"price": 22664,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "reviveme",
+		"price": 2833,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healall",
+		"price": 17336,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healanypawn",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healme",
+		"price": 2167,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "surgery",
+		"price": 500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "passionshuffle",
+		"price": 2000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "replacetrait",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "rescueme",
+		"price": 800,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "fullheal",
+		"price": 2167,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "passion",
+		"price": 7000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "removepassion",
+		"price": 5000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "backpack",
+		"price": 1,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 66
+	"total": 78
 }
